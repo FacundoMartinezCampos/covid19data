@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px 0;
+}
+
+.cardInfected {
+  margin: 0 2% !important;
+  border-bottom: 10px solid #ecf542
+}
+
+.cardRecovered {
+  margin: 0 2% !important;
+  border-bottom: 10px solid #7542f5
+}
+
